@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-mise use java -g
+mise use java@21 -g
