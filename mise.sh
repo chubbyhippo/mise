@@ -7,3 +7,4 @@ mise use jbang -gy
 mise use go -g
 mise use python -g
 mise use node@lts -g
+mise use ruby -g
