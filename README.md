@@ -5,5 +5,5 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/mise.sh | /usr/b
 # install mise
 ### bash
 ```
-curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/install-bash.sh | /usr/bin/env sh
+curl -s https://raw.githubusercontent.com/chubbyhippo/mise/main/install-bash.sh | /usr/bin/env bash
 ```
