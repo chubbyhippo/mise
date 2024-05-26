@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-mise use java@lts -g
+mise use java -g
 mise use maven -g
 mise use gradle -gy
 mise use jbang -gy
