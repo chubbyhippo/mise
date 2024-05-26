@@ -8,3 +8,4 @@ mise use go -g
 mise use python -g
 mise use node@lts -g
 mise use ruby -g
+mise use elixir -g
