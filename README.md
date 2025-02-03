@@ -7,3 +7,7 @@ curl https://raw.githubusercontent.com/chubbyhippo/mise/main/mise.sh | /usr/bin/
 ```shell
 curl https://raw.githubusercontent.com/chubbyhippo/mise/main/install-bash.sh | /usr/bin/env bash
 ```
+# upgrade
+```shell
+mise upgrade
+```
