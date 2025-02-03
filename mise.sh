@@ -7,3 +7,4 @@ mise use go -g
 mise use python -g
 mise use node@lts -g
 mise use lua -gy
+mise use babashka -g
