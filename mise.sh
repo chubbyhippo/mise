@@ -2,5 +2,6 @@
 
 [ -f ~/.config/mise/config.toml ] || curl -fsSL https://raw.githubusercontent.com/chubbyhippo/mise/refs/heads/main/config.toml -o ~/.config/mise/config.toml
 [ -f ~/.bashrc ] && ! grep -qsF 'mise activate bash' ~/.bashrc && echo 'eval "$(~/.local/bin/mise activate bash)"' >> ~/.bashrc
+[ -f ~/.zshrc ] && ! grep -qsF 'mise activate zsh' ~/.zshrc && echo 'eval "$(~/.local/bin/mise activate zsh)"' >> ~/.zshrc
 eval "$(~/.local/bin/mise activate bash)"
 mise install --yes
